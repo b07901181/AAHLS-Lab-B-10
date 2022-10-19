@@ -10,3 +10,7 @@ There are two implementations for block multiplication: the first one is traditi
 ### Files
 
 ### Building
+
+## References
+1. [Lab 2 in Bridge of Life Education GitHub](https://github.com/bol-edu/course-lab_2).<br>
+2. [AAHLS-LabB-Matrix-Multiplication in andy39866821 GitHub](https://github.com/andy39866821/AAHLS-LabB-Matrix-Multiplication).
